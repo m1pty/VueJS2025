@@ -1,0 +1,502 @@
+.number-list .num-1 {
+  color: rgb(1, 255, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-2 {
+  color: rgb(2, 254, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-3 {
+  color: rgb(3, 253, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-4 {
+  color: rgb(4, 252, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-5 {
+  color: rgb(5, 251, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-6 {
+  color: rgb(6, 250, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-7 {
+  color: rgb(7, 249, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-8 {
+  color: rgb(8, 248, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-9 {
+  color: rgb(9, 247, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-10 {
+  color: rgb(10, 246, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-11 {
+  color: rgb(11, 245, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-12 {
+  color: rgb(12, 244, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-13 {
+  color: rgb(13, 243, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-14 {
+  color: rgb(14, 242, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-15 {
+  color: rgb(15, 241, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-16 {
+  color: rgb(16, 240, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-17 {
+  color: rgb(17, 239, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-18 {
+  color: rgb(18, 238, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-19 {
+  color: rgb(19, 237, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-20 {
+  color: rgb(20, 236, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-21 {
+  color: rgb(21, 235, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-22 {
+  color: rgb(22, 234, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-23 {
+  color: rgb(23, 233, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-24 {
+  color: rgb(24, 232, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-25 {
+  color: rgb(25, 231, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-26 {
+  color: rgb(26, 230, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-27 {
+  color: rgb(27, 229, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-28 {
+  color: rgb(28, 228, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-29 {
+  color: rgb(29, 227, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-30 {
+  color: rgb(30, 226, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-31 {
+  color: rgb(31, 225, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-32 {
+  color: rgb(32, 224, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-33 {
+  color: rgb(33, 223, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-34 {
+  color: rgb(34, 222, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-35 {
+  color: rgb(35, 221, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-36 {
+  color: rgb(36, 220, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-37 {
+  color: rgb(37, 219, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-38 {
+  color: rgb(38, 218, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-39 {
+  color: rgb(39, 217, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-40 {
+  color: rgb(40, 216, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-41 {
+  color: rgb(41, 215, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-42 {
+  color: rgb(42, 214, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-43 {
+  color: rgb(43, 213, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-44 {
+  color: rgb(44, 212, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-45 {
+  color: rgb(45, 211, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-46 {
+  color: rgb(46, 210, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-47 {
+  color: rgb(47, 209, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-48 {
+  color: rgb(48, 208, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-49 {
+  color: rgb(49, 207, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-50 {
+  color: rgb(50, 206, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-51 {
+  color: rgb(51, 205, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-52 {
+  color: rgb(52, 204, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-53 {
+  color: rgb(53, 203, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-54 {
+  color: rgb(54, 202, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-55 {
+  color: rgb(55, 201, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-56 {
+  color: rgb(56, 200, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-57 {
+  color: rgb(57, 199, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-58 {
+  color: rgb(58, 198, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-59 {
+  color: rgb(59, 197, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-60 {
+  color: rgb(60, 196, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-61 {
+  color: rgb(61, 195, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-62 {
+  color: rgb(62, 194, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-63 {
+  color: rgb(63, 193, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-64 {
+  color: rgb(64, 192, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-65 {
+  color: rgb(65, 191, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-66 {
+  color: rgb(66, 190, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-67 {
+  color: rgb(67, 189, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-68 {
+  color: rgb(68, 188, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-69 {
+  color: rgb(69, 187, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-70 {
+  color: rgb(70, 186, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-71 {
+  color: rgb(71, 185, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-72 {
+  color: rgb(72, 184, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-73 {
+  color: rgb(73, 183, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-74 {
+  color: rgb(74, 182, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-75 {
+  color: rgb(75, 181, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-76 {
+  color: rgb(76, 180, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-77 {
+  color: rgb(77, 179, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-78 {
+  color: rgb(78, 178, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-79 {
+  color: rgb(79, 177, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-80 {
+  color: rgb(80, 176, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-81 {
+  color: rgb(81, 175, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-82 {
+  color: rgb(82, 174, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-83 {
+  color: rgb(83, 173, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-84 {
+  color: rgb(84, 172, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-85 {
+  color: rgb(85, 171, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-86 {
+  color: rgb(86, 170, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-87 {
+  color: rgb(87, 169, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-88 {
+  color: rgb(88, 168, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-89 {
+  color: rgb(89, 167, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-90 {
+  color: rgb(90, 166, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-91 {
+  color: rgb(91, 165, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-92 {
+  color: rgb(92, 164, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-93 {
+  color: rgb(93, 163, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-94 {
+  color: rgb(94, 162, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-95 {
+  color: rgb(95, 161, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-96 {
+  color: rgb(96, 160, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-97 {
+  color: rgb(97, 159, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-98 {
+  color: rgb(98, 158, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-99 {
+  color: rgb(99, 157, 0);
+  display: inline-block;
+  margin: 2px;
+}
+.number-list .num-100 {
+  color: rgb(100, 156, 0);
+  display: inline-block;
+  margin: 2px;
+}
+
+/*# sourceMappingURL=styles.css.map */

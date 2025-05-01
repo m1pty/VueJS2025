@@ -1,0 +1,88 @@
+@block_bg_color: #EFEFEF;
+@basic_height: 100px;
+
+.field-styles() {
+  background-color: @block_bg_color;
+  border-radius: 10px;
+  height: @basic_height;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.centred-styles() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #fff;
+  justify-content: center;
+}
+
+h1 { .centred-styles(); } 
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  .centred-styles();
+  width: 100%;
+}
+
+.nav-links {
+  .centred-styles();
+  gap: 20px;
+  .nav-link {
+      color: #333;
+      text-decoration: none;
+      &:hover {
+          text-decoration: underline;
+      }
+  }
+}
+
+// добавляем миксины для включения
+.make-wide() { width: 90% }
+.make-centered() { .centred-styles(); }
+
+.field {
+  .field-styles();
+  
+  &--wide       { .make-wide(); }
+  &--centered   { .make-centered(); }
+  &--wide--centered {
+    .make-wide();
+    .make-centered();
+  }
+  &--third {
+    width: 100%;
+    max-width: 33%;
+    height: @basic_height * 2;
+    flex: 1;
+    
+    // нулевой отступ от левого края в ряду
+    &:first-child { margin-left:  0; }
+    // нулевой отступ от правого края в ряду
+    &:last-child  { margin-right: 0; }
+  }
+}
+
+.fields-row {
+  margin: 15px 0px;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}

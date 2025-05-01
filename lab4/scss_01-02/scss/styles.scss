@@ -1,0 +1,9 @@
+.number-list {
+  @for $i from 1 through 100 {
+    .num-#{$i} {
+      color: rgb($i, 256 - $i, 0);
+      display: inline-block;
+      margin: 2px;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SCSS Color Numbers</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <h1>Lab 4 «SCSS/SASS» Tasks 1, 2</h1>
+  <div class="number-list" id="numbers"></div>
+  <script>
+    for (let i = 1; i <= 100; i++) {
+      const span = document.createElement('span');
+      span.className = 'num-' + i;
+      span.innerText = i;
+      document.getElementById('numbers').appendChild(span);
+    }
+  </script>
+</body>
+</html>

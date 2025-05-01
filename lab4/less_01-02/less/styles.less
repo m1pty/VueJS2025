@@ -1,0 +1,13 @@
+.number-list {
+  .generate-numbers(100);
+  
+  .generate-numbers(@n, @i: 1) when (@i =< @n) {
+    .num-@{i} {
+      color: rgb(@i, (256 - @i), 0);
+      display: inline-block;
+      margin: 2px;
+    }
+    
+    .generate-numbers(@n, (@i + 1));
+  }
+}
