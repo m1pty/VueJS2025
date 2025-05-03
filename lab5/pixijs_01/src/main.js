@@ -1,4 +1,3 @@
-// Инициализация приложения PixiJS
 const app = new PIXI.Application({
   width: 800,
   height: 600,
