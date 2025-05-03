@@ -1,0 +1,32 @@
+body { font-family: 'Times New Roman', Times, serif; }
+h2 { margin-bottom: 20px; }
+        
+.alternating-colors { display: inline; }
+.alternating-colors span:nth-child(odd)  { color: red;  }
+.alternating-colors span:nth-child(even) { color: blue; }
+        
+.text-underlined { text-decoration: underline; }
+.text-bold { font-weight: bold; }
+.text-italic { font-style: italic; }
+.text-strike { text-decoration: line-through; }
+        
+.math-text { font-style: italic;   }
+.math-name { font-family: cursive; }
+        
+.sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+.price-table {
+    width: 50%;
+    border-collapse: collapse;
+    background: #00ffff;
+    margin-top: 20px;
+}
+        
+.price-table th, .price-table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}
